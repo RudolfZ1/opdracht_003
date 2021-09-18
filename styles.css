@@ -1,0 +1,70 @@
+.orange-background {
+  background-color: orange;
+  width: auto;
+  border-top: 2px;
+  border-bottom: 2px;
+}
+/* dit is de koptekst van alle pagina's*/
+h1.border-greenyellow {
+  border-top: 2px;
+  border-bottom: 2px;
+  border: greenyellow;
+  border-style: solid;
+  width: auto;
+  text-align: center;
+  background-color: orange;
+}
+.fotoruud {
+  height: 400px;
+  border: 12px dashed #1b1a19;
+  background-color: whitesmoke;
+}
+.foto_ruud_lisa {
+  height: 400px;
+  border: 12px dashed #1b1a19;
+  background-color: whitesmoke;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+body {
+  width: auto;
+  border-top: 2px;
+  border-right: 2px;
+  border-bottom: 2px;
+  border-left: 2px;
+  height: auto;
+}
+/* tekst over mezelf */
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: navy;
+  text-align: justify;
+  padding-top: 10px;
+  margin-left: 32%;
+}
+footer {
+  color: black;
+}
+/* fancy stamp-border */
+.stamp {
+  width: 300px;
+  height: 500px;
+  background: #fff url(george.jpg) no-repeat;
+  border: 12px dashed #1b1a19;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.stamp p {
+  color: #fff;
+  font: bold 60px Georgia, "Times New Roman", Times, serif;
+  text-align: right;
+}
